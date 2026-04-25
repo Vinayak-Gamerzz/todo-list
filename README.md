@@ -8,6 +8,8 @@ My first Flavourtown Python project.
 •⁠  ⁠Pending and Done tasks shown separately
 •⁠  ⁠Data is automatically saved in JSON file
 
+Used Grok AI for idea of a easy building, and fast doable project cause i thought its deadline is 31st march and i used chatgpt for the problem coming in uploading my project to Github, Used Github Copilot '
+
 ## How to Run
 ```bash
 python3 tasks.py
