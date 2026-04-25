@@ -1,6 +1,6 @@
 # To-Do List with Time Tracking 📝
 
-My first Flavourtown Python project.
+My first Hack Club Python project.
 
 ## Features
 •⁠  ⁠Add tasks with estimated time
@@ -15,4 +15,4 @@ Used Grok AI for idea of a easy building, and fast doable project cause i though
 python3 tasks.py
 
 Made By Vinayak-Gamerzz
-for Hack Club Flavourtown!!
+for Hack Club!!
